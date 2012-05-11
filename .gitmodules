@@ -1,6 +1,0 @@
-[submodule "wip"]
-	path = wip
-	url = git://github.com/mamash/pkgsrc-wip.git
-[submodule "joyent"]
-	path = joyent
-	url = git://github.com/mamash/pkgsrc-joyent.git
